@@ -8,7 +8,7 @@ Neste caso, o código apresentado aqui é um conjunto dos dois módulos: "Gerenc
 
 O Projeto final é um Gerenciamento de Usuários -RESTfull API com Restify
 
-#Algumas coisas interessantes aprendidas durante esta parte do projeto:
+# Algumas coisas interessantes aprendidas durante esta parte do projeto:
 
 - Criação de projeto com a ferramenta Express Generator.
 
